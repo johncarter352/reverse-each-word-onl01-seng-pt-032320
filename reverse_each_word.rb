@@ -1,6 +1,7 @@
 def reverse_each_word(array)
   my_word = []
   array.each do |w|
-    puts "#{w} there, and how are you?"
+    puts "#{w} #{w}, #{w} #{w} #{w} #{w}?"
   end
+  my_word.reverse
 end
